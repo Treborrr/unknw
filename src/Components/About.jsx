@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Soy Robert Alvarado, pero prefiero Trebor. Estudiante de Ciencias de la Computación en la UPC. Con 19 años, me apasiona la programación y la resolución creativa de problemas. Creo proyectos personales para poner en práctica mis habilidades y estoy comprometido con mi crecimiento en tecnología. Estoy ansioso por enfrentar nuevos desafíos.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
